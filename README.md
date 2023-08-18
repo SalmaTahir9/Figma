@@ -21,6 +21,7 @@ Collaborators can leave comments directly on the design, facilitating communicat
 ## Plugins and Integrations:
 Figma supports a variety of plugins that extend its functionality and integrations with other tools commonly used in the design and development process.
 
-## Cross-Platform: Figma is accessible through web browsers on various operating systems, including Windows, macOS, and Linux, making it versatile and accessible to a wide range of users.
+## Cross-Platform:
+Figma is accessible through web browsers on various operating systems, including Windows, macOS, and Linux, making it versatile and accessible to a wide range of users.
 
-## Figma has gained popularity due to its ease of use, powerful collaboration features, and its ability to streamline the design and development workflow for UI/UX projects.
+Figma has gained popularity due to its ease of use, powerful collaboration features, and its ability to streamline the design and development workflow for UI/UX projects.
