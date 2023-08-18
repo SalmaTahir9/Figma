@@ -3,17 +3,23 @@ Figma is a collaborative design and prototyping tool used by designers, develope
 
 Figma offers a wide range of features, including:
 
-## Real-time Collaboration: Multiple users can work on a design simultaneously, seeing each other's changes in real-time.
+## Real-time Collaboration: 
+Multiple users can work on a design simultaneously, seeing each other's changes in real-time.
 
-## Design and Prototyping: Figma allows you to create and design various elements of a user interface, from icons and buttons to entire screens. It also supports interactive prototyping, allowing you to create clickable prototypes to showcase user flows.
+## Design and Prototyping:
+Figma allows you to create and design various elements of a user interface, from icons and buttons to entire screens. It also supports interactive prototyping, allowing you to create clickable prototypes to showcase user flows.
 
-## Components and Libraries: Figma enables the creation of design components that can be reused across multiple projects, ensuring design consistency and efficiency.
+## Components and Libraries:
+Figma enables the creation of design components that can be reused across multiple projects, ensuring design consistency and efficiency.
 
-## Version History: You can track changes made to a design over time and easily revert to previous versions.
+## Version History: 
+You can track changes made to a design over time and easily revert to previous versions.
 
-## Comments and Feedback: Collaborators can leave comments directly on the design, facilitating communication and feedback during the design process.
+## Comments and Feedback:
+Collaborators can leave comments directly on the design, facilitating communication and feedback during the design process.
 
-## Plugins and Integrations: Figma supports a variety of plugins that extend its functionality and integrations with other tools commonly used in the design and development process.
+## Plugins and Integrations:
+Figma supports a variety of plugins that extend its functionality and integrations with other tools commonly used in the design and development process.
 
 ## Cross-Platform: Figma is accessible through web browsers on various operating systems, including Windows, macOS, and Linux, making it versatile and accessible to a wide range of users.
 
